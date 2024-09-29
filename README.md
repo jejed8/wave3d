@@ -1,62 +1,23 @@
-# docsify-modele-classique
-modèle de page docsify pour une publication via page sans actions 
+# Mélochroma
+Faites jaillir les sons et mélodies de votre imagination pour les métamorphoser en une œuvre d'art vibrante, où chaque note peint un éclat de couleur sur la toile du réel.
 
+## Public cible & objectif narratif
+- L'installation est conçue pour les gens de tout âge
 
-## Personalisation
+<br>
 
-### index.html
+L'installation invite le public à explorer la fusion sensorielle entre la musique et la couleur, en transformant chaque mélodie jouée en une œuvre visuelle unique, créant ainsi une expérience immersive où son et image se rejoignent.
 
-#### meta
+<br>
 
-Est utilisée pour inclure des métadonnées, comme des descriptions ou des informations relatives au contenu de la page, sans les afficher directement aux utilisateurs.
+## Message Personnel
 
-```html
+## Moodboard Visuel
 
-<meta name="description" content="Modèle docsify pour publication classique">
+## Moodboard Sonore
 
-```
+## Scénario interactif
 
-#### title
-Définit le titre de la page qui s'affiche dans l'onglet du navigateur et est utilisé par les moteurs de recherche comme le titre principal dans les résultats de recherche.
+## Exemples concrets
 
-```html
-<title>Modèle docsify pour publication classique</title>
-```
-
-
-
-
-#### window.$docsify 
-
-##### name
-
-Titre de la page affiché dans la barre de coté
-
-```html
-name: 'Modèle Docsify Classique',
-```
-
-##### repo
-
-Lien vers le repository git du projet à documenter, cliquable depuis l'icone dans la barre de coté
-
-```html
-repo: 'https://github.com/gllmAR/docsify-modele-classique',
-```
-
-
-#### CSS (optionnelle)
-
-Source et lien vers style CSS lié  [gllmAR/docsify-simple-style](https://github.com/gllmAR/docsify-simple-style/)
-
-
-```html
-<style>
-    :root {
-        --theme-hue:2;
-        --theme-brightness:60%;
-    }
-</style>
-```
-
-
+## Outil et logiciel technique
