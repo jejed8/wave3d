@@ -53,13 +53,22 @@ L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire u
 ### Composantes principales
 
 - **Synthétiseur** : Un clavier synthétiseur numérique qui génère les sons et ondes selon les notes jouées.
+  
 - **Cordes vibrantes** : Des cordes physiques (comme des cordes de guitare ou des fils tendus) reliées à un système de vibration ou de résonance pour réagir aux fréquences et ondes sonores produites par le synthétiseur.
+  
 - **Amplificateurs et transducteurs** : Ces dispositifs permettent de convertir les signaux sonores en vibrations physiques sur les cordes, les faisant réagir aux sons produits par le synthétiseur.
+  
 - **Système de détection de présence (capteur de pression)** : Un capteur de pression ou un interrupteur caché sous le banc pour détecter la présence de l'utilisateur et déclencher l’animation de bienvenue.
+  
 - **Système de projection et éclairage** : Un projecteur pour éclairer le synthétiseur et des lumières LED ou un système d'éclairage programmable pour illuminer les cordes pendant l'animation.
-- **Interface de contrôle (ordinateur ou microcontrôleur)** : Un ordinateur ou un microcontrôleur (comme Arduino ou Raspberry Pi) pour gérer les interactions entre les capteurs, le synthétiseur, les transducteurs et - les lumières. Il centralise les signaux et déclenche les différentes actions (lumières, sons, vibrations).
-- **Système d'enregistrement audio** : Si l'installation inclut un mode "performance", un système d'enregistrement pour sauvegarder les compositions créées par l'utilisateur.
+  
+- **Interface de contrôle (ordinateur ou microcontrôleur)** : Un ordinateur ou un microcontrôleur (comme Arduino ou Raspberry Pi) pour gérer les interactions entre les capteurs, le synthétiseur, les transducteurs et les lumières. Il centralise les signaux et déclenche les différentes actions (lumières, sons, vibrations).
+  
+- **Système d'enregistrement audio** : Un système d'enregistrement pour sauvegarder les compositions créées par l'interacteur.
+   
 - **Enceintes et système audio** : Pour la diffusion de l’ambiance sonore et des sons générés par le synthétiseur, un système de haut-parleurs est nécessaire.
-- **Logiciel interactif** : Un programme qui synchronise les actions, comme l'activation des cordes en fonction des notes jouées, la gestion des modes "performance" et "libre", ainsi que l’enregistrement des sons.
+  
+- **Logiciel interactif** : Un programme qui synchronise les actions, comme l'activation des cordes en fonction des notes jouées, la gestion des modes "performance" et "libre", ainsi que l’enregistrement des sons. (Touchdesigner ou MAX)
+  
 - **Support structurel** : Un cadre solide ou un système de montage pour maintenir les cordes tendues et bien alignées par rapport au synthétiseur.
 
