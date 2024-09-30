@@ -1,16 +1,19 @@
-# wave.3d
-Faites jaillir les sons et mélodies de votre imagination pour les métamorphoser en une œuvre d'art vibrante, où chaque note peint un éclat de couleur sur la toile du réel.
+# Wave3D
+*Faites prendre formes les sons que votre imagination compose*
 
-## Public cible & objectif narratif
+## Concept
+
+***Wave3D*** propose une interaction directe avec un synthétiseur qui, à chaque note jouée, fait vibrer des cordes physiques. Ces vibrations révèlent visuellement les ondes sonores et les fréquences produites. Le public est invité à expérimenter et à observer la manière dont les sons prennent forme, offrant une exploration à la fois auditive et visuelle des compositions musicales.
+
+### Public cible & objectif narratif
 - L'installation est conçue pour les gens de tout âge
 
-<br>
+L'installation invite le public à explorer la nature du son et des compositions mélodiques en découvrant les ondes que ceux-ci génèrent.
 
-L'installation invite le public à explorer la fusion sensorielle entre la musique et la couleur, en transformant chaque mélodie jouée en une représentation visuel unique, créant ainsi une expérience immersive où son et image se rejoignent.
+## Mise en scène
 
-<br>
+L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire un synthétiseur placé au centre, accompagné d’un banc sur lequel il est invité à s'asseoir. Dès qu'il prend place, un détecteur de pression relié au banc enregistre sa présence et déclenche une animation de bienvenue, illuminant les cordes situées face au clavier. L'interacteur est ensuite invité à jouer sur le clavier pour générer différentes ondes qui font vibrer les cordes. Il peut choisir entre deux modes d'interaction : le mode "performance", qui lui permet d'enregistrer ses compositions, ou le mode "libre", pour explorer et s'amuser en jouant simplement avec les touches.
 
-## Message Personnel
 
 ## Moodboard Visuel
 
