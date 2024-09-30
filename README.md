@@ -10,6 +10,8 @@
 
 L'installation invite le public à explorer la nature du son et des compositions mélodiques en découvrant les ondes que ceux-ci génèrent.
 
+![Untitled_Artwork](https://github.com/user-attachments/assets/4dfddbd6-ea3d-46e8-be7e-16fd6e7b1d28)
+
 ## Mise en scène
 
 L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire un piano au centre, accompagné d'un banc sur lequel il est invité à s'asseoir. Une douce ambiance sonore joue en fond, renforçant l'immersion. Dès qu'il s'installe, un détecteur de pression sous le banc capte sa présence et déclenche une animation de bienvenue, illuminant les cordes face au clavier. L'interacteur est alors invité à jouer, produisant des ondes sonores qui font vibrer les cordes en synchronisation avec les notes. Il peut choisir entre deux modes : le mode "performance", pour enregistrer ses compositions, ou le mode "libre", pour explorer et s'amuser en toute simplicité avec le clavier.
