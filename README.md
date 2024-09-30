@@ -46,8 +46,6 @@ L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire u
     n17 --> n16
 ```
 
-## Exemples concrets
-
 ## Composantes techniques
 
 ### Composantes principales
@@ -72,3 +70,48 @@ L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire u
   
 - **Support structurel** : Un cadre solide ou un système de montage pour maintenir les cordes tendues et bien alignées par rapport au synthétiseur.
 
+### Autres matériaux
+
+- **Lumières LED** : Installées sur la structure supportant les cordes, elles apportent une fonction esthétique en illuminant les vibrations et réagissant aux sons, renforçant ainsi l’aspect visuel de l’expérience.
+
+- Câblage requis : XLR, ethernet, extentions électriques, etc.
+
+### Logiciel
+
+#### TouchDesigner
+Fonction : Plateforme de création visuelle en temps réel.
+- Utilisation dans l'installation :
+    - Synchronisation des visuels et des lumières LED avec les sons produits par le synthétiseur.
+    - Contrôle des projections lumineuses sur les cordes en réponse aux notes jouées.
+    - Création d'effets visuels pour l'animation de bienvenue et les transitions interactives.
+    - Gestion de la partie visuelle, comme l'animation des ondes sonores ou la visualisation des fréquences.
+ 
+<br>
+
+#### Arduino
+Fonction : Microcontrôleur pour contrôler des capteurs et autres dispositifs électroniques.
+- Utilisation dans l'installation :
+    - Gestion du capteur de pression sous le banc pour détecter la présence de l'interacteur et déclencher l'animation de bienvenue.
+    - Contrôle des vibrations des cordes via des transducteurs ou moteurs, en fonction des signaux reçus du synthétiseur.
+    - Interface pour contrôler les lumières LED et d'autres composants électroniques simples (boutons, interrupteurs).
+    - Communication avec d'autres systèmes (comme TouchDesigner ou MAX) pour synchroniser les interactions physiques.
+
+<br>
+
+#### QLC+ (Light Controller)
+Fonction : Contrôleur de lumière open-source.
+- Utilisation dans l'installation :
+    - Gestion de l'éclairage dynamique.
+    - Programmation de scénarios d'éclairage interactifs, en fonction des événements déclenchés par le synthétiseur ou les capteurs.
+    - Synchronisation des effets lumineux avec les fréquences et les notes jouées sur le clavier.
+    - Contrôle de transitions de lumière.
+ 
+<br>
+
+#### MAX (ou Max/MSP)
+Fonction : Environnement de programmation visuelle pour la création audio et multimédia.
+- Utilisation dans l'installation :
+    - Traitement en temps réel des signaux audio du synthétiseur pour générer des ondes qui contrôlent les vibrations des cordes.
+    - Création d'un système interactif où les notes jouées influencent à la fois les sons et les réponses visuelles et physiques.
+    - Enregistrement et manipulation des compositions dans le mode "performance", avec des options de capture et de transformation des sons produits.
+    - Interface centrale pour gérer les interactions complexes entre l'audio, la lumière et les capteurs, reliant les différentes composantes (synthétiseur, Arduino, LED, etc.).
