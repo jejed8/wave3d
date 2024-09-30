@@ -1,4 +1,4 @@
-# Mélochroma
+# wave.3d
 Faites jaillir les sons et mélodies de votre imagination pour les métamorphoser en une œuvre d'art vibrante, où chaque note peint un éclat de couleur sur la toile du réel.
 
 ## Public cible & objectif narratif
