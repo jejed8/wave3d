@@ -17,11 +17,14 @@ L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire u
 
 ## Moodboard Visuel
 
+### Référence visuelles
+
+- [Exemple cordes](https://www.youtube.com/watch?v=ttgLyWFINJI)
+
 ## Moodboard Sonore
 
-- [Référence sonore 1](https://www.youtube.com/watch?v=3zPv7oMaR_g)
-- [Référence sonore 2](https://www.youtube.com/watch?v=EAIEqDT63tg)
-- [Référence sonore 3]()
+- [Ambiance sonore 1](https://www.youtube.com/watch?v=3zPv7oMaR_g)
+- [Ambiance sonore 2](https://www.youtube.com/watch?v=EAIEqDT63tg)
 
 ## Scénario interactif
 
