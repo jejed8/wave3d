@@ -16,6 +16,8 @@ L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire u
 
 
 ## Moodboard Visuel
+![moodboard-visuel](https://github.com/user-attachments/assets/9c7f23a4-d2c9-49ba-8af1-2f2a9340f3fb)
+
 
 ### Référence visuelles
 
