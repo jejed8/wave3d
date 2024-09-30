@@ -1,12 +1,3 @@
-<html>
-    <style>
-        body {
-            background-color: #1E1E1E;
-            color: #F1F1F1;
-        }
-    </style>
-</html>
-
 # Wave3D
 *Faites prendre formes les sons que votre imagination compose*
 
