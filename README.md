@@ -5,7 +5,7 @@
 
 ***Wave3D*** propose une interaction directe avec un synthétiseur qui, à chaque note jouée, fait vibrer des cordes physiques. Ces vibrations révèlent visuellement les ondes sonores et les fréquences produites. Le public est invité à expérimenter et à observer la manière dont les sons prennent forme, offrant une exploration à la fois auditive et visuelle des compositions musicales.
 
-### Public cible & objectif narratif
+### Public cible & objectif
 - L'installation est conçue pour les gens de tout âge
 
 L'installation invite le public à explorer la nature du son et des compositions mélodiques en découvrant les ondes que ceux-ci génèrent.
