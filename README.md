@@ -70,11 +70,15 @@ L'interacteur est accueilli dans une pièce sombre, où un projecteur éclaire u
   
 - **Support structurel** : Un cadre solide ou un système de montage pour maintenir les cordes tendues et bien alignées par rapport au synthétiseur.
 
+<br>
+
 ### Autres matériaux
 
 - **Lumières LED** : Installées sur la structure supportant les cordes, elles apportent une fonction esthétique en illuminant les vibrations et réagissant aux sons, renforçant ainsi l’aspect visuel de l’expérience.
 
 - Câblage requis : XLR, ethernet, extentions électriques, etc.
+
+<br>
 
 ### Logiciel
 
