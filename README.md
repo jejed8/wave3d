@@ -154,6 +154,9 @@ Fonction : Environnement de programmation visuelle pour la création audio et mu
 #### Autre
 - Mac mini
 
+## Synoptique
+
+
 ## Plantation
 #### Vue de haut
 ![Desktop - 1](https://github.com/user-attachments/assets/b1d29e10-140e-4051-b7fc-f91316091479)
