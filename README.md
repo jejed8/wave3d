@@ -1,4 +1,4 @@
-# Wave3D
+# Wave3D - Concept
 *Faites prendre formes les sons que votre imagination compose*
 
 ## Concept
@@ -130,3 +130,9 @@ Fonction : Environnement de programmation visuelle pour la création audio et mu
     - Création d'un système interactif où les notes jouées influencent à la fois les sons et les réponses visuelles et physiques.
     - Enregistrement et manipulation des compositions dans le mode "performance", avec des options de capture et de transformation des sons produits.
     - Interface centrale pour gérer les interactions complexes entre l'audio, la lumière et les capteurs, reliant les différentes composantes (clavier, Arduino, LED, etc.).
+ 
+
+
+# Wave3D - Planification
+
+
