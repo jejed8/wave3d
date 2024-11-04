@@ -1,4 +1,4 @@
-# Wave3D - Concept
+# Wave2D - Concept
 *Faites prendre formes les sons que votre imagination compose*
 
 ## Concept
@@ -133,6 +133,37 @@ Fonction : Environnement de programmation visuelle pour la création audio et mu
  
 
 
-# Wave3D - Planification
+# Wave2D - Planification
+
+## Devis
+
+### Fournis par l'artiste
+#### Audio
+- Novation Launchkey 61 [MK3] MIDI Keyboard Controller
+
+### Fournis par le collège
+#### Video
+- Projecteur EPSON PowerLite 2250U Full HD WUXGA 3LCD Projector x3
+- x3 Murs ou toile pour les projections
+
+#### Audio
+- Console de son BehringerX32 Producer
+- x4 HAUT-PARLEURS Surround full range
+- Câbles audio requis
+  
+#### Autre
+- Mac mini
+
+## Plantation
+#### Vue de haut
+![Desktop - 1](https://github.com/user-attachments/assets/b1d29e10-140e-4051-b7fc-f91316091479)
+
+#### Vue de coté
+![Desktop - 2](https://github.com/user-attachments/assets/22f82746-8396-4528-9903-b97180021a92)
+
+#### Vue de face
+![Desktop - 3](https://github.com/user-attachments/assets/e135bf36-3a35-49c8-97b8-f5de3b19e84f)
+
+
 
 
