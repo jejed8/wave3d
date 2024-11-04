@@ -164,6 +164,11 @@ Fonction : Environnement de programmation visuelle pour la création audio et mu
 #### Vue de face
 ![Desktop - 3](https://github.com/user-attachments/assets/e135bf36-3a35-49c8-97b8-f5de3b19e84f)
 
+#### Visualisation 3D
+![Desktop - 4](https://github.com/user-attachments/assets/1a0aa8c9-edb7-4372-a08b-a9d89da9cc4e)
+
+
+
 
 
 
